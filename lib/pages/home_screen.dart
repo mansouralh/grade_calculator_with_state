@@ -61,7 +61,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     });
                   } else if (totalGrade >= 90) {
                     setState(() {
-                      result = "C";
+                      result = "c";
                     });
                   } else if (totalGrade >= 90) {
                     setState(() {
